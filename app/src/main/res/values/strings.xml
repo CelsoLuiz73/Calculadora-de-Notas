@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CalculadoraNotas</string>
+    <string name="nota_prova_1">Nota 1</string>
+    <string name="nota_prova_2">Nota 2</string>
+    <string name="nota_prova_3">Nota 3</string>
+    <string name="nota_prova_4">Nota 4</string>
+    <string name="numero_faltas">Número de faltas</string>
+    <string name="calcular_media">CALCULAR</string>
+    <string name="aluno_foi_aprovado">Aluno foi aprovado</string>
 </resources>
